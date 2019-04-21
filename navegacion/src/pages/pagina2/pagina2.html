@@ -1,0 +1,7 @@
+<ion-content>
+  <ion-list>
+    <ion-item col-lg-5 *ngFor="let pelicula of peliculas" (click)="mostrarDetalles(pelicula)">
+      {{ pelicula.titulo }}
+    </ion-item>
+  </ion-list>
+</ion-content>

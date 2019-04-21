@@ -2,8 +2,54 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad55cd18-833a-41d5-8921-e00a27851a99" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/navegacion/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navegacion/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navegacion/ionic.config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navegacion/ionic.starter.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navegacion/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navegacion/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navegacion/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navegacion/src/app/app.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navegacion/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navegacion/src/app/app.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navegacion/src/app/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navegacion/src/assets/icon/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navegacion/src/assets/imgs/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navegacion/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navegacion/src/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navegacion/src/pages/ajustes/ajustes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navegacion/src/pages/ajustes/ajustes.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navegacion/src/pages/ajustes/ajustes.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navegacion/src/pages/ajustes/ajustes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navegacion/src/pages/ajustes2/ajustes2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navegacion/src/pages/ajustes2/ajustes2.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navegacion/src/pages/ajustes2/ajustes2.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navegacion/src/pages/ajustes2/ajustes2.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navegacion/src/pages/modal/modal.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navegacion/src/pages/modal/modal.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navegacion/src/pages/modal/modal.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navegacion/src/pages/modal/modal.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navegacion/src/pages/pagina2/pagina2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navegacion/src/pages/pagina2/pagina2.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navegacion/src/pages/pagina2/pagina2.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navegacion/src/pages/pagina2/pagina2.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navegacion/src/pages/pagina3/pagina3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navegacion/src/pages/pagina3/pagina3.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navegacion/src/pages/pagina3/pagina3.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navegacion/src/pages/pagina3/pagina3.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navegacion/src/pages/principal/principal.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navegacion/src/pages/principal/principal.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navegacion/src/pages/principal/principal.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navegacion/src/pages/principal/principal.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navegacion/src/pages/tabs/tabs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navegacion/src/pages/tabs/tabs.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navegacion/src/pages/tabs/tabs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navegacion/src/pages/tabs/tabs.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navegacion/src/service-worker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navegacion/src/theme/variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navegacion/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navegacion/tslint.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/holamundoionic/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/holamundoionic/src/app/app.module.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,30 +60,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/holamundoionic/src/pages/repos/repos.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="16" column="35" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/holamundoionic/src/pages/repos/repos.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="667">
-              <caret line="35" column="23" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
-              <folding>
-                <element signature="e#0#42#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/holamundoionic/src/providers/repos/repos.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
+            <state relative-caret-position="161">
               <caret line="12" selection-start-line="12" selection-end-line="12" />
               <folding>
                 <element signature="e#0#37#0" expanded="true" />
@@ -47,10 +72,43 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/holamundoionic/src/pages/repo-details/repo-details.ts">
+        <entry file="file://$PROJECT_DIR$/navegacion/src/app/app.module.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+            <state relative-caret-position="-63">
+              <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#58#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/navegacion/src/pages/pagina2/pagina2.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6">
+              <caret line="27" column="33" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="33" />
+              <folding>
+                <element signature="e#0#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/navegacion/src/pages/pagina2/pagina2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/navegacion/src/pages/pagina3/pagina3.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="236">
+              <caret line="27" column="3" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
               <folding>
                 <element signature="e#0#42#0" expanded="true" />
               </folding>
@@ -59,10 +117,43 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/holamundoionic/src/pages/repo-details/repo-details.html">
+        <entry file="file://$PROJECT_DIR$/navegacion/src/pages/pagina3/pagina3.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+            <state relative-caret-position="230">
+              <caret line="16" column="60" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/navegacion/src/app/app.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/navegacion/src/pages/principal/principal.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="121">
+              <caret line="13" column="52" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/navegacion/src/pages/principal/principal.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="167">
+              <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#42#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -84,6 +175,14 @@
         <option value="$PROJECT_DIR$/holamundoionic/src/pages/repo-details/repo-details.ts" />
         <option value="$PROJECT_DIR$/holamundoionic/src/pages/repo-details/repo-details.html" />
         <option value="$PROJECT_DIR$/holamundoionic/src/providers/repos/repos.ts" />
+        <option value="$PROJECT_DIR$/navegacion/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/navegacion/src/pages/principal/principal.ts" />
+        <option value="$PROJECT_DIR$/navegacion/src/pages/pagina2/pagina2.ts" />
+        <option value="$PROJECT_DIR$/navegacion/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/navegacion/src/pages/pagina3/pagina3.ts" />
+        <option value="$PROJECT_DIR$/navegacion/src/pages/pagina3/pagina3.html" />
+        <option value="$PROJECT_DIR$/navegacion/src/pages/principal/principal.html" />
+        <option value="$PROJECT_DIR$/navegacion/src/pages/pagina2/pagina2.html" />
       </list>
     </option>
   </component>
@@ -111,6 +210,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -121,73 +221,50 @@
             <path>
               <item name="dah" type="b2602c69:ProjectViewProjectNode" />
               <item name="dah" type="462c0819:PsiDirectoryNode" />
-              <item name="holamundoionic" type="462c0819:PsiDirectoryNode" />
+              <item name="navegacion" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dah" type="b2602c69:ProjectViewProjectNode" />
               <item name="dah" type="462c0819:PsiDirectoryNode" />
-              <item name="holamundoionic" type="462c0819:PsiDirectoryNode" />
+              <item name="navegacion" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dah" type="b2602c69:ProjectViewProjectNode" />
               <item name="dah" type="462c0819:PsiDirectoryNode" />
-              <item name="holamundoionic" type="462c0819:PsiDirectoryNode" />
+              <item name="navegacion" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dah" type="b2602c69:ProjectViewProjectNode" />
               <item name="dah" type="462c0819:PsiDirectoryNode" />
-              <item name="holamundoionic" type="462c0819:PsiDirectoryNode" />
+              <item name="navegacion" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dah" type="b2602c69:ProjectViewProjectNode" />
               <item name="dah" type="462c0819:PsiDirectoryNode" />
-              <item name="holamundoionic" type="462c0819:PsiDirectoryNode" />
+              <item name="navegacion" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="repo-details" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dah" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dah" type="462c0819:PsiDirectoryNode" />
-              <item name="holamundoionic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="repos" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dah" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dah" type="462c0819:PsiDirectoryNode" />
-              <item name="holamundoionic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="providers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dah" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dah" type="462c0819:PsiDirectoryNode" />
-              <item name="holamundoionic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="providers" type="462c0819:PsiDirectoryNode" />
-              <item name="repos" type="462c0819:PsiDirectoryNode" />
+              <item name="principal" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../navegacion1" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
-    <property name="ts.external.directory.path" value="C:\Users\Garrido\PhpStormProjects\dah\holamundoionic\node_modules\typescript\lib" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="ts.external.directory.path" value="C:\Users\Garrido\PhpStormProjects\dah\navegacion\node_modules\typescript\lib" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -217,7 +294,8 @@
       <workItem from="1555399620004" duration="604000" />
       <workItem from="1555503441673" duration="285000" />
       <workItem from="1555658376001" duration="3038000" />
-      <workItem from="1555693037364" duration="1388000" />
+      <workItem from="1555693037364" duration="6605000" />
+      <workItem from="1555847053233" duration="3160000" />
     </task>
     <task id="LOCAL-00001" summary="First commit ionic">
       <created>1554760728136</created>
@@ -240,16 +318,23 @@
       <option name="project" value="LOCAL" />
       <updated>1555339861787</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Introducción a Ionic">
+      <created>1555696123375</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1555696123376</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14215000" />
+    <option name="totallyTimeSpent" value="22592000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26823708" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27203646" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -263,7 +348,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="TypeScript" order="10" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49526814" visible="true" weight="0.41367522" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49526814" visible="true" weight="0.11965812" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50473183" side_tool="true" weight="0.2326389" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -277,7 +362,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit ionic" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit ionic" />
+    <MESSAGE value="Introducción a Ionic" />
+    <option name="LAST_COMMIT_MESSAGE" value="Introducción a Ionic" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/holamundoionic/src/pages/hello-ionic/hello-ionic.html">
@@ -347,11 +433,91 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/holamundoionic/src/providers/repos/repos.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
+        <state relative-caret-position="161">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="e#0#37#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/navegacion/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/navegacion/src/pages/pagina2/pagina2.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/navegacion/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-63">
+          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/navegacion/src/pages/principal/principal.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/navegacion/src/pages/pagina3/pagina3.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="27" column="3" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/navegacion/src/pages/pagina2/pagina2.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6">
+          <caret line="27" column="33" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/navegacion/src/pages/pagina3/pagina3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="16" column="60" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/navegacion/src/pages/principal/principal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="13" column="52" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/navegacion/src/pages/pagina2/pagina2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
         </state>
       </provider>
     </entry>

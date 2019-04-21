@@ -1,0 +1,22 @@
+<ion-header>
+    <ion-navbar>
+        <ion-title>{{ pelicula.titulo }}</ion-title>
+    </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+    {{ pelicula.director }}
+
+    <div class="row">
+        <button ion-button block color="primary" col-lg-5 (click)="irAtras()">
+            Ir atrás
+        </button>
+
+        <div class="col-lg-2"></div>
+
+        <button ion-button block color="secondary" col-lg-5 (click)="irPrincipal()">
+            Ir página principal
+        </button>
+    </div>
+
+</ion-content>

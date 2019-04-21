@@ -10,9 +10,9 @@ import { PrincipalPage} from "../pages/principal/principal";
 import { AjustesPage} from "../pages/ajustes/ajustes";
 import { Ajustes2Page} from "../pages/ajustes2/ajustes2";
 import { ModalPage} from "../pages/modal/modal";
-import { TabsPage} from "../pages/tabs/tabs";
 import {Pagina2PageModule} from "../pages/pagina2/pagina2.module";
 import {Pagina3PageModule} from "../pages/pagina3/pagina3.module";
+import {TabsPageModule} from "../pages/tabs/tabs.module";
 
 @NgModule({
   declarations: [
@@ -20,14 +20,14 @@ import {Pagina3PageModule} from "../pages/pagina3/pagina3.module";
     PrincipalPage,
     AjustesPage,
     Ajustes2Page,
-    ModalPage,
-    TabsPage
+    ModalPage
   ],
   imports: [
     BrowserModule,
     IonicModule.forRoot(MyApp),
     Pagina2PageModule,
-    Pagina3PageModule
+    Pagina3PageModule,
+    TabsPageModule
   ],
   bootstrap: [IonicApp],
   entryComponents: [
@@ -35,8 +35,7 @@ import {Pagina3PageModule} from "../pages/pagina3/pagina3.module";
     PrincipalPage,
     AjustesPage,
     Ajustes2Page,
-    ModalPage,
-    TabsPage
+    ModalPage
   ],
   providers: [
     StatusBar,

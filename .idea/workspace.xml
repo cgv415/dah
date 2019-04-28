@@ -2,16 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad55cd18-833a-41d5-8921-e00a27851a99" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/holamundoionic/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/navegacion/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sonidos/src/assets/animales/caballo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sonidos/src/assets/animales/cabra.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sonidos/src/assets/animales/cerdo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sonidos/src/assets/animales/gallo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sonidos/src/assets/animales/mono.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sonidos/src/assets/animales/perro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sonidos/src/assets/animales/serpiente.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sonidos/src/assets/animales/tigre.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sonidos/src/assets/sonidos/caballo.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sonidos/src/assets/sonidos/cabra.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sonidos/src/assets/sonidos/cerdo.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sonidos/src/assets/sonidos/gallo.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sonidos/src/assets/sonidos/mono.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sonidos/src/assets/sonidos/perro.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sonidos/src/assets/sonidos/serpiente.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sonidos/src/assets/sonidos/tigre.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sonidos/src/data/data.animales.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sonidos/src/interfaces/animal.interface.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/navegacion/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/navegacion/src/app/app.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/navegacion/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/navegacion/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/navegacion/src/pages/modal/modal.ts" beforeDir="false" afterPath="$PROJECT_DIR$/navegacion/src/pages/modal/modal.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/navegacion/src/pages/principal/principal.html" beforeDir="false" afterPath="$PROJECT_DIR$/navegacion/src/pages/principal/principal.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/navegacion/src/pages/principal/principal.ts" beforeDir="false" afterPath="$PROJECT_DIR$/navegacion/src/pages/principal/principal.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/navegacion/src/pages/tabs/tabs.html" beforeDir="false" afterPath="$PROJECT_DIR$/navegacion/src/pages/tabs/tabs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/navegacion/src/pages/tabs/tabs.ts" beforeDir="false" afterPath="$PROJECT_DIR$/navegacion/src/pages/tabs/tabs.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiNoticias/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apiNoticias/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiNoticias2/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apiNoticias2/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionicComponents/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/ionicComponents/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionicComponents/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ionicComponents/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionicComponents/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ionicComponents/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionicComponents/src/app/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/ionicComponents/src/app/app.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionicComponents/src/pages/contact/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/ionicComponents/src/pages/contact/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionicComponents/src/pages/contact/contact.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ionicComponents/src/pages/contact/contact.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionicComponents/src/pages/tabs/tabs.html" beforeDir="false" afterPath="$PROJECT_DIR$/ionicComponents/src/pages/tabs/tabs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionicComponents/src/pages/tabs/tabs.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ionicComponents/src/pages/tabs/tabs.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sonidos/src/pages/home/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/sonidos/src/pages/home/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sonidos/src/pages/home/home.ts" beforeDir="false" afterPath="$PROJECT_DIR$/sonidos/src/pages/home/home.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,72 +44,49 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/navegacion/src/app/app.module.ts">
+        <entry file="file://$PROJECT_DIR$/apiNoticias2/src/providers/noticias/noticias.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" column="57" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="57" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/navegacion/src/pages/principal/principal.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="25" column="2" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
+            <state relative-caret-position="276">
+              <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
               <folding>
-                <element signature="e#0#42#0" expanded="true" />
+                <element signature="e#0#50#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/navegacion/src/pages/modal/modal.ts">
+        <entry file="file://$PROJECT_DIR$/apiNoticias2/src/app/app.module.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="23" column="49" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
+            <state relative-caret-position="161">
+              <caret line="33" column="20" lean-forward="true" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
               <folding>
-                <element signature="e#0#42#0" expanded="true" />
+                <element signature="e#0#58#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/navegacion/src/pages/principal/principal.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="21" column="68" selection-start-line="21" selection-start-column="68" selection-end-line="21" selection-end-column="68" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/navegacion/src/app/app.component.ts">
+        <entry file="file://$PROJECT_DIR$/apiNoticias2/src/pages/home/home.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+            <state>
               <folding>
                 <element signature="e#0#42#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/navegacion/src/app/app.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>C:\Users\Garrido\PhpStormProjects\dah</dir>
+    </dirStrings>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/apiNoticias2" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -113,6 +112,24 @@
         <option value="$PROJECT_DIR$/navegacion/src/pages/principal/principal.html" />
         <option value="$PROJECT_DIR$/navegacion/src/app/app.component.html" />
         <option value="$PROJECT_DIR$/navegacion/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/ionicComponents/src/pages/estudios/estudios.ts" />
+        <option value="$PROJECT_DIR$/ionicComponents/src/app/app.scss" />
+        <option value="$PROJECT_DIR$/ionicComponents/src/pages/estudios/estudios.html" />
+        <option value="$PROJECT_DIR$/ionicComponents/src/pages/estudios/estudios.scss" />
+        <option value="$PROJECT_DIR$/ionicComponents/src/pages/grados/grados.html" />
+        <option value="$PROJECT_DIR$/ionicComponents/src/pages/grados/grados.ts" />
+        <option value="$PROJECT_DIR$/ionicComponents/src/pages/tabs/tabs.ts" />
+        <option value="$PROJECT_DIR$/ionicComponents/src/pages/tabs/tabs.html" />
+        <option value="$PROJECT_DIR$/ionicComponents/src/pages/contact/contact.html" />
+        <option value="$PROJECT_DIR$/ionicComponents/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/ionicComponents/src/pages/contact/contact.ts" />
+        <option value="$PROJECT_DIR$/sonidos/src/interfaces/animal.interface.ts" />
+        <option value="$PROJECT_DIR$/sonidos/src/pages/home/home.ts" />
+        <option value="$PROJECT_DIR$/sonidos/src/pages/home/home.html" />
+        <option value="$PROJECT_DIR$/apiNoticias/src/providers/noticias/noticias.ts" />
+        <option value="$PROJECT_DIR$/apiNoticias/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/apiNoticias2/src/providers/noticias/noticias.ts" />
+        <option value="$PROJECT_DIR$/apiNoticias2/src/app/app.module.ts" />
       </list>
     </option>
   </component>
@@ -140,7 +157,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -151,32 +167,75 @@
             <path>
               <item name="dah" type="b2602c69:ProjectViewProjectNode" />
               <item name="dah" type="462c0819:PsiDirectoryNode" />
-              <item name="navegacion" type="462c0819:PsiDirectoryNode" />
+              <item name="apiNoticias2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dah" type="b2602c69:ProjectViewProjectNode" />
               <item name="dah" type="462c0819:PsiDirectoryNode" />
-              <item name="navegacion" type="462c0819:PsiDirectoryNode" />
+              <item name="apiNoticias2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dah" type="b2602c69:ProjectViewProjectNode" />
               <item name="dah" type="462c0819:PsiDirectoryNode" />
-              <item name="navegacion" type="462c0819:PsiDirectoryNode" />
+              <item name="apiNoticias2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dah" type="b2602c69:ProjectViewProjectNode" />
               <item name="dah" type="462c0819:PsiDirectoryNode" />
-              <item name="navegacion" type="462c0819:PsiDirectoryNode" />
+              <item name="apiNoticias2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dah" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dah" type="462c0819:PsiDirectoryNode" />
+              <item name="apiNoticias2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dah" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dah" type="462c0819:PsiDirectoryNode" />
+              <item name="apiNoticias2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="noticia" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dah" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dah" type="462c0819:PsiDirectoryNode" />
+              <item name="apiNoticias2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="providers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dah" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dah" type="462c0819:PsiDirectoryNode" />
+              <item name="apiNoticias2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="providers" type="462c0819:PsiDirectoryNode" />
+              <item name="noticias" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dah" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dah" type="462c0819:PsiDirectoryNode" />
+              <item name="sonidos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dah" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dah" type="462c0819:PsiDirectoryNode" />
+              <item name="sonidos" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -187,6 +246,12 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="ts.external.directory.path" value="C:\Users\Garrido\PhpStormProjects\dah\navegacion\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Garrido\PhpStormProjects\dah\sonidos\src\data" />
+      <recent name="C:\Users\Garrido\PhpStormProjects\dah\sonidos\src\assets" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -217,7 +282,8 @@
       <workItem from="1555503441673" duration="285000" />
       <workItem from="1555658376001" duration="3038000" />
       <workItem from="1555693037364" duration="6605000" />
-      <workItem from="1555847053233" duration="6643000" />
+      <workItem from="1555847053233" duration="7291000" />
+      <workItem from="1556461193617" duration="8929000" />
     </task>
     <task id="LOCAL-00001" summary="First commit ionic">
       <created>1554760728136</created>
@@ -254,16 +320,24 @@
       <option name="project" value="LOCAL" />
       <updated>1555850789001</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Primera parte navegación">
+      <created>1555858740415</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1555858740415</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26075000" />
+    <option name="totallyTimeSpent" value="35652000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27203646" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27583587" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -277,7 +351,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="TypeScript" order="10" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49526814" visible="true" weight="0.2837607" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49526814" visible="true" weight="0.2837607" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50473183" side_tool="true" weight="0.2326389" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -427,16 +501,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/navegacion/src/pages/modal/modal.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="23" column="49" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
-          <folding>
-            <element signature="e#0#42#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/navegacion/src/app/app.module.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
@@ -444,17 +508,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/navegacion/src/pages/principal/principal.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="25" column="2" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/navegacion/src/pages/modal/modal.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="49" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/navegacion/src/pages/principal/principal.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
+        <state relative-caret-position="483">
           <caret line="21" column="68" selection-start-line="21" selection-start-column="68" selection-end-line="21" selection-end-column="68" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/navegacion/src/pages/principal/principal.ts">
+    <entry file="file://$PROJECT_DIR$/navegacion/src/app/app.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="25" column="2" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
+        <state relative-caret-position="10">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
           <folding>
             <element signature="e#0#42#0" expanded="true" />
           </folding>
@@ -468,10 +552,177 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/navegacion/src/app/app.component.ts">
+    <entry file="file://$PROJECT_DIR$/ionicComponents/src/pages/estudios/estudios.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+        <state relative-caret-position="736">
+          <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ionicComponents/src/pages/estudios/estudios.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ionicComponents/src/pages/tabs/tabs.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ionicComponents/src/pages/tabs/tabs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="76" selection-start-line="1" selection-start-column="76" selection-end-line="1" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ionicComponents/src/pages/contact/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="55" column="14" selection-start-line="55" selection-start-column="14" selection-end-line="55" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ionicComponents/src/pages/contact/contact.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="55" selection-start-line="2" selection-start-column="55" selection-end-line="2" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ionicComponents/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="46" column="17" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ionicComponents/src/app/app.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ionicComponents/src/pages/estudios/estudios.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ionicComponents/src/pages/estudios/estudios.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ionicComponents/src/pages/grados/grados.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ionicComponents/src/pages/grados/grados.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="22" column="3" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sonidos/src/pages/home/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sonidos/src/pages/home/home.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1311">
+          <caret line="57" column="3" selection-start-line="57" selection-start-column="3" selection-end-line="57" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apiNoticias/src/providers/noticias/noticias.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apiNoticias/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="72" column="20" lean-forward="true" selection-start-line="72" selection-start-column="20" selection-end-line="72" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sonidos/src/interfaces/animal.interface.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sonidos/src/data/data.animales.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apiNoticias2/src/providers/noticias/noticias.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apiNoticias2/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="33" column="20" lean-forward="true" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apiNoticias2/src/pages/home/home.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
           <folding>
             <element signature="e#0#42#0" expanded="true" />
           </folding>

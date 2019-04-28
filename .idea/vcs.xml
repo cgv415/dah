@@ -2,6 +2,10 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/apiNoticias" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/apiNoticias2" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/holamundoionic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ionicComponents" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sonidos" vcs="Git" />
   </component>
 </project>
